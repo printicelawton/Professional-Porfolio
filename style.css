@@ -1,58 +1,40 @@
-* {margin: 0%
-    ;}
-    
-header{
+
+section{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    font-size: xx-large;
-    background-color: rgb(192, 176, 184);
-    height: 25px
-        }
-
-div {
-    color: slategrey;
-    font-size: xlarge;    
-    font-style: italic;
+    font-size: 1.25em;
+    color: #614051;
+    font-weight:500;
+    
 }
-
-.navbar .navbar{
-background-color: #becb38!important
+.navbar{
+    color:  #614051;
+    
 }
 
 .navbar-brand{
-    font-size: 35px;
-    font-weight:bolder
-    color#707066     
-
-}
-.carousel-inner{
-    margin-top: 50;
-}
-.h1{
+    color: #614051;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 1.5em;
-    color: #707066
-    background-color#becb38;
-    
-    
-}
-.p{
-    background-color: #becb38!important
-    color
-        }
+} 
 
-.accordion-body{ 
-    color: #767676
-    
+
+h1{
+    margin: top 50px;
+    font-size: 1.85em;
+    color: #614051;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-section{
-    justify-content: center;
-    color: 
-    font-weight; background-origin: padding-box;
-    font-size: 25px
-
+h2{
+    font-size: 1.55em;
+    font-weight: lighter;
+    color:#614051;
 }
-.my-body{
-    background-color: #F4F6F6 !important
+
+p{
+    font-size: .75em;
+}
+
+img{
+    width: 100%;
+    height: auto;
 }
